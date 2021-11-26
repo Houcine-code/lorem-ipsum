@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum/static/css/main.fd5b502b.chunk.css",
+    "main.js": "/lorem-ipsum/static/js/main.1612dc4f.chunk.js",
+    "main.js.map": "/lorem-ipsum/static/js/main.1612dc4f.chunk.js.map",
+    "runtime-main.js": "/lorem-ipsum/static/js/runtime-main.b8f9d5e5.js",
+    "runtime-main.js.map": "/lorem-ipsum/static/js/runtime-main.b8f9d5e5.js.map",
+    "static/js/2.6d334d6c.chunk.js": "/lorem-ipsum/static/js/2.6d334d6c.chunk.js",
+    "static/js/2.6d334d6c.chunk.js.map": "/lorem-ipsum/static/js/2.6d334d6c.chunk.js.map",
+    "index.html": "/lorem-ipsum/index.html",
+    "precache-manifest.eedca5c95de2b5428b186fc5331cd722.js": "/lorem-ipsum/precache-manifest.eedca5c95de2b5428b186fc5331cd722.js",
+    "service-worker.js": "/lorem-ipsum/service-worker.js",
+    "static/css/main.fd5b502b.chunk.css.map": "/lorem-ipsum/static/css/main.fd5b502b.chunk.css.map",
+    "static/js/2.6d334d6c.chunk.js.LICENSE.txt": "/lorem-ipsum/static/js/2.6d334d6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8f9d5e5.js",
+    "static/js/2.6d334d6c.chunk.js",
+    "static/css/main.fd5b502b.chunk.css",
+    "static/js/main.1612dc4f.chunk.js"
+  ]
+}
